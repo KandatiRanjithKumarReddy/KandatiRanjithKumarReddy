@@ -1,6 +1,5 @@
 # 💫 About Me
 
-
 I'm **Kandati Ranjith Kumar Reddy** — a Computer Science graduate who loves turning ideas into real, working products. I build full-stack web applications using **React.js, Node.js, Angular.js and MongoDB**, with a focus on clean architecture and scalable design.
 
 I recently completed my internship at **Infosys SpringBoard**, where I sharpened my skills in real-world development environments. When I'm not coding, I'm exploring emerging tech, contributing to projects, and pushing my full-stack abilities further — one build at a time.
@@ -61,10 +60,6 @@ I recently completed my internship at **Infosys SpringBoard**, where I sharpened
 
 ---
 
-
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=KandatiRanjithKumarReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -75,10 +70,6 @@ I recently completed my internship at **Infosys SpringBoard**, where I sharpened
 
 ---
 
-
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
