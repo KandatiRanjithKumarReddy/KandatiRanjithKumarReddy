@@ -15,6 +15,7 @@ I recently completed my internship at **Infosys SpringBoard**, where I sharpened
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kandatiranjithkumarreddy@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://www.leetcode.com/ranjith568/)
 
 ---
 
