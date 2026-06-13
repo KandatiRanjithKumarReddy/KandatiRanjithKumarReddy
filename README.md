@@ -18,12 +18,9 @@ I recently completed my internship at **Infosys SpringBoard**, where I sharpened
 
 ---
 
-
----
 ## 🧩 LeetCode Stats
 
-[![LeetCard](https://leetcard.jacoblin.cool/ranjith568?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/ranjith568/)
----
+[![LeetCard](https://leetcard.jacoblin.cool/ranjith568?theme=dark&font=source_code_pro)](https://leetcode.com/u/ranjith568/)
 
 ## 💻 Tech Stack
 
