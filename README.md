@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Ranjith Kumar Reddy 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:58A6FF&height=160&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=40&fontColor=yellow&animation=fadeIn&fontAlignY=40" />
 
-### Full-Stack Developer | MERN Stack | Building things that work
+### Ex-Intern @Infosys | MERN . Angular | Java + DSA | Open to Full Time Roles
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Angular.js+%7C+MongoDB;Infosys+SpringBoard+Alumni;Learning+System+Design." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;React.js+%7C+Node.js+%7C+Angular.js+%7C+MongoDB;Infosys+SpringBoard+Alumni;Learning+System+Design." alt="Typing SVG" />
 
-<br/>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranjith-portfolio-six.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
@@ -19,35 +19,23 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Computer Science graduate who loves turning ideas into real, working products. I build full-stack web applications using **React.js, Node.js, Angular.js, and MongoDB**, with a focus on clean architecture and scalable design.
-
-I recently completed my internship at **Infosys SpringBoard**, where I sharpened my skills in real-world development environments. When I'm not coding, I'm exploring emerging tech, contributing to projects, and pushing my full-stack abilities further — one build at a time.
-
-```text
-const ranjith = {
-    role: "Full-Stack Developer",
-    stack: ["React.js", "Node.js", "Angular.js", "MongoDB"],
-    currentlyBuilding: "Full-Stack MERN Projects",
-    currentlyLearning: "System Design",
-    askMeAbout: ["MERN Stack", "REST APIs", "Angular"],
-    portfolio: "ranjith-portfolio-six.vercel.app",
-    funFact: "I debug with console.log() and I'm not ashamed"
-};
-```
-
----
-
-### 🌟 Featured
+I turn ideas into shipped products — not just code that runs, but products people actually use. My current playground is the **MERN + Angular** stack, where I care less about following tutorials and more about why an architecture decision actually matters at scale.
 
 <div align="center">
 
-<a href="https://ranjith-portfolio-six.vercel.app">
-  <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-ranjith--portfolio--six.vercel.app-58A6FF?style=for-the-badge" />
-</a>
+`💡 Idea` → `🛠️ Build` → `🚀 Ship` → `🔁 Iterate`
 
 </div>
 
----
+At **Infosys SpringBoard**, I went from "I know React" to shipping a production-grade tourism app with real payments, real auth, and real users in mind. That shift — from tutorial code to production code — is what I'm chasing with every project since.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=210&lines=const+ranjith+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++stack%3A+%5B%22React.js%22%2C+%22Node.js%22%2C+%22Angular.js%22%2C+%22MongoDB%22%2C+%22TypeScript%22%2C+%22Java%22%5D%2C;++++currentlyBuilding%3A+%22Full-Stack+MERN+Projects%22%2C;++++currentlyLearning%3A+%22System+Design%22%2C;++++askMeAbout%3A+%5B%22MERN+Stack%22%2C+%22REST+APIs%22%2C+%22Angular%22%5D%2C;++++portfolio%3A+%22ranjith-portfolio-six.vercel.app%22%2C;++++funFact%3A+%22I+debug+with+console.log%28%29+and+I%27m+not+ashamed%22;%7D%3B" alt="Typing SVG" />
+
+</div>
+
+
 
 ### 🛠️ Tech Stack
 
@@ -99,12 +87,18 @@ const ranjith = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark" />
 
-<img src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KandatiRanjithKumarReddy&theme=tokyo-night&hide_border=true" />
+---
+
+### 🐍 Contribution 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KandatiRanjithKumarReddy/KandatiRanjithKumarReddy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -129,7 +123,5 @@ const ranjith = {
 <br/>
 
 **📫 Let's connect:** [kandatiranjithkumarreddy@gmail.com](mailto:kandatiranjithkumarreddy@gmail.com) · [Portfolio](https://ranjith-portfolio-six.vercel.app) · [LinkedIn](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
-
-![Profile Views](https://komarev.com/ghpvc/?username=KandatiRanjithKumarReddy&color=58A6FF&style=flat)
 
 </div>
