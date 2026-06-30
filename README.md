@@ -1,28 +1,57 @@
-# 💫 About Me
+<div align="center">
 
-I'm **Kandati Ranjith Kumar Reddy** — a Computer Science graduate who loves turning ideas into real, working products. I build full-stack web applications using **React.js, Node.js, Angular.js and MongoDB**, with a focus on clean architecture and scalable design.
+# Hi there, I'm Ranjith Kumar Reddy 👋
+
+### Full-Stack Developer | MERN Stack | Building things that work
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Angular.js+%7C+MongoDB;Infosys+SpringBoard+Alumni;Learning+System+Design" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranjith-portfolio-six.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandatiranjithkumarreddy@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjith568/)
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a Computer Science graduate who loves turning ideas into real, working products. I build full-stack web applications using **React.js, Node.js, Angular.js, and MongoDB**, with a focus on clean architecture and scalable design.
 
 I recently completed my internship at **Infosys SpringBoard**, where I sharpened my skills in real-world development environments. When I'm not coding, I'm exploring emerging tech, contributing to projects, and pushing my full-stack abilities further — one build at a time.
 
-- 🔭 Currently working on **Full-Stack MERN Projects**
-- 🌱 Currently learning **System Design**
-- 💬 Ask me about **MERN Stack, REST APIs, Angular**
-- 📫 Reach me at **kandatiranjithkumarreddy@gmail.com**
+```text
+const ranjith = {
+    role: "Full-Stack Developer",
+    stack: ["React.js", "Node.js", "Angular.js", "MongoDB"],
+    currentlyBuilding: "Full-Stack MERN Projects",
+    currentlyLearning: "System Design",
+    askMeAbout: ["MERN Stack", "REST APIs", "Angular"],
+    portfolio: "ranjith-portfolio-six.vercel.app",
+    funFact: "I debug with console.log() and I'm not ashamed"
+};
+```
 
 ---
 
-## 🌐 Socials
+### 🌟 Featured
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kandatiranjithkumarreddy@gmail.com)
+<div align="center">
+
+<a href="https://ranjith-portfolio-six.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-ranjith--portfolio--six.vercel.app-58A6FF?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## 🧩 LeetCode Stats
+### 🛠️ Tech Stack
 
-[![LeetCard](https://leetcard.jacoblin.cool/ranjith568?theme=dark&font=source_code_pro)](https://leetcode.com/u/ranjith568/)
-
-## 💻 Tech Stack
+<div align="center">
 
 **Frontend**
 
@@ -62,18 +91,45 @@ I recently completed my internship at **Infosys SpringBoard**, where I sharpened
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=KandatiRanjithKumarReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KandatiRanjithKumarReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
+<img src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KandatiRanjithKumarReddy&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 LeetCode Stats
+
+<div align="center">
+
+[![LeetCard](https://leetcard.jacoblin.cool/ranjith568?theme=dark&font=source_code_pro)](https://leetcode.com/u/ranjith568/)
+
+</div>
+
+---
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+**📫 Let's connect:** [kandatiranjithkumarreddy@gmail.com](mailto:kandatiranjithkumarreddy@gmail.com) · [Portfolio](https://ranjith-portfolio-six.vercel.app) · [LinkedIn](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=KandatiRanjithKumarReddy&color=58A6FF&style=flat)
+
+</div>
