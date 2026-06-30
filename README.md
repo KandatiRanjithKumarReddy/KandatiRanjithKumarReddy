@@ -166,21 +166,13 @@ Real-time messaging system with **<1s** delivery latency using Socket.IO.
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KandatiRanjithKumarReddy&theme=react-dark&hide_border=true" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=KandatiRanjithKumarReddy&theme=react-dark&hide_border=true" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KandatiRanjithKumarReddy/KandatiRanjithKumarReddy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
----
 
 <div align="center">
 
