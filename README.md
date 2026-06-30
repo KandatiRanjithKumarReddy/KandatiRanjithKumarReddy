@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:58A6FF&height=160&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=40&fontColor=yellow&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:58A6FF&height=160&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 ### Ex-Intern @Infosys | MERN . Angular | Java + DSA | Open to Full Time Roles
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;React.js+%7C+Node.js+%7C+Angular.js+%7C+MongoDB;Infosys+SpringBoard+Alumni;Learning+System+Design." alt="Typing SVG" />
 
-
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranjith-portfolio-six.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
@@ -35,7 +35,7 @@ At **Infosys SpringBoard**, I went from "I know React" to shipping a production-
 
 </div>
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -90,11 +90,13 @@ At **Infosys SpringBoard**, I went from "I know React" to shipping a production-
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark" />
 
+<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=true" />
+
 </div>
 
 ---
 
-### 🐍 Contribution 
+### 🐍 Contribution Gr
 
 <div align="center">
 
