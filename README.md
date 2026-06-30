@@ -2,9 +2,9 @@
 
 # Hi there, I'm Ranjith Kumar Reddy 👋
 
-### Ex-Intern @Infosys | MERN . Angular | Java + DSA | Open to Full Time Roles
+### Full-Stack Developer | MERN Stack | Building things that work
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ex-Intern+%40Infosys;MERN+.+Angular+Developer;Java+%2B+DSA+Enthusiast;Open+to+Full+Time+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Angular.js+%7C+MongoDB;Infosys+SpringBoard+Alumni;Learning+System+Design." alt="Typing SVG" />
 
 <br/>
 
@@ -23,11 +23,17 @@ I'm a Computer Science graduate who loves turning ideas into real, working produ
 
 I recently completed my internship at **Infosys SpringBoard**, where I sharpened my skills in real-world development environments. When I'm not coding, I'm exploring emerging tech, contributing to projects, and pushing my full-stack abilities further — one build at a time.
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=190&lines=const+ranjith+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++stack%3A+%5B%22React.js%22%2C+%22Node.js%22%2C+%22Angular.js%22%2C+%22MongoDB%22%5D%2C;++++currentlyBuilding%3A+%22Full-Stack+MERN+Projects%22%2C;++++currentlyLearning%3A+%22System+Design%22%2C;++++askMeAbout%3A+%5B%22MERN+Stack%22%2C+%22REST+APIs%22%2C+%22Angular%22%5D%2C;++++portfolio%3A+%22ranjith-portfolio-six.vercel.app%22%2C;++++funFact%3A+%22I+debug+with+console.log%28%29+and+I%27m+not+ashamed%22;%7D%3B" alt="Typing SVG" />
-
-</div>
+```text
+const ranjith = {
+    role: "Full-Stack Developer",
+    stack: ["React.js", "Node.js", "Angular.js", "MongoDB"],
+    currentlyBuilding: "Full-Stack MERN Projects",
+    currentlyLearning: "System Design",
+    askMeAbout: ["MERN Stack", "REST APIs", "Angular"],
+    portfolio: "ranjith-portfolio-six.vercel.app",
+    funFact: "I debug with console.log() and I'm not ashamed"
+};
+```
 
 ---
 
@@ -40,66 +46,6 @@ I recently completed my internship at **Infosys SpringBoard**, where I sharpened
 </a>
 
 </div>
-
----
-
-### 💼 Experience
-
-**Software Engineer Intern — Infosys Springboard** · *Feb 2026 – Apr 2026*
-
-- Built **TripNest**, a responsive tourism web app using Angular, enabling exploration of 50+ destinations with end-to-end booking through a structured SPA architecture.
-- Developed a destination search feature with dynamic filters, sorting, and pagination — cutting page load time by **50%** and boosting UX by **80%**.
-- Implemented Firebase Authentication with Angular Auth Guards to secure booking/payment flows and ensure seamless session persistence.
-- Architected **Razorpay** payment gateway integration with real-time dynamic pricing (traveler count, fees, taxes) and multi-method checkout.
-
----
-
-### 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏥 Doctor Appointment Booking System** [🔗 Live](#)
-
-Full-stack platform for searching doctors, booking appointments, and secure payments — cut booking time by **87%** (15 min → under 2 min).
-
-- Role-based auth for 3 user types (patient / doctor / admin) using JWT + bcrypt, securing 100% of API routes
-- 15+ RESTful APIs built with Node.js, Express.js, MongoDB & Mongoose
-- Cloudinary for image storage, Razorpay for payments across 6 medical specialties
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT` `Cloudinary` `Razorpay`
-
-</td>
-<td width="50%" valign="top">
-
-**💬 Real-Time Chat Application** [🔗 Live](#)
-
-Real-time messaging system with **<1s** delivery latency using Socket.IO.
-
-- JWT-based authentication securing user sessions across the platform
-- Event-driven Socket.IO architecture supporting 10+ concurrent users with consistent sync
-- Real-time online/offline tracking, cutting communication delays by **~40%**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎓 Education
-
-**B.Tech in Computer Science** — Sri Venkateswara College of Engineering, Tirupati
-*Sept 2022 – Apr 2026 · CGPA: 9.1/10*
-
----
-
-### 📜 Certifications
-
-- **The Complete Full-Stack Web Development Bootcamp** — Udemy *(2026)*
-- **Java DSA Course – Master the Fundamentals and Beyond** — Scaler *(2026)*
 
 ---
 
@@ -153,30 +99,12 @@ Real-time messaging system with **<1s** delivery latency using Socket.IO.
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.shion.dev/api?username=KandatiRanjithKumarReddy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-</td>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KandatiRanjithKumarReddy&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</td>
-</tr>
-</table>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=tokyonight&hide_border=true" />
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=KandatiRanjithKumarReddy&theme=react-dark&hide_border=true" />
-
-</div>
-
----
-
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KandatiRanjithKumarReddy&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KandatiRanjithKumarReddy&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -196,7 +124,7 @@ Real-time messaging system with **<1s** delivery latency using Socket.IO.
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
 
