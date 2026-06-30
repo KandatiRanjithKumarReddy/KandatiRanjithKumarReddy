@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:58A6FF&height=160&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=155&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### Ex-Intern @Infosys | MERN . Angular | Java + DSA | Open to Full Time Roles
 
