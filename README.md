@@ -96,15 +96,6 @@ At **Infosys SpringBoard**, I went from "I know React" to shipping a production-
 
 ---
 
-### 🐍 Contribution Gr
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KandatiRanjithKumarReddy/KandatiRanjithKumarReddy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
----
 
 ### 🏆 LeetCode Stats
 
