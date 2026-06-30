@@ -43,6 +43,66 @@ I recently completed my internship at **Infosys SpringBoard**, where I sharpened
 
 ---
 
+### 💼 Experience
+
+**Software Engineer Intern — Infosys Springboard** · *Feb 2026 – Apr 2026*
+
+- Built **TripNest**, a responsive tourism web app using Angular, enabling exploration of 50+ destinations with end-to-end booking through a structured SPA architecture.
+- Developed a destination search feature with dynamic filters, sorting, and pagination — cutting page load time by **50%** and boosting UX by **80%**.
+- Implemented Firebase Authentication with Angular Auth Guards to secure booking/payment flows and ensure seamless session persistence.
+- Architected **Razorpay** payment gateway integration with real-time dynamic pricing (traveler count, fees, taxes) and multi-method checkout.
+
+---
+
+### 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 Doctor Appointment Booking System** [🔗 Live](#)
+
+Full-stack platform for searching doctors, booking appointments, and secure payments — cut booking time by **87%** (15 min → under 2 min).
+
+- Role-based auth for 3 user types (patient / doctor / admin) using JWT + bcrypt, securing 100% of API routes
+- 15+ RESTful APIs built with Node.js, Express.js, MongoDB & Mongoose
+- Cloudinary for image storage, Razorpay for payments across 6 medical specialties
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT` `Cloudinary` `Razorpay`
+
+</td>
+<td width="50%" valign="top">
+
+**💬 Real-Time Chat Application** [🔗 Live](#)
+
+Real-time messaging system with **<1s** delivery latency using Socket.IO.
+
+- JWT-based authentication securing user sessions across the platform
+- Event-driven Socket.IO architecture supporting 10+ concurrent users with consistent sync
+- Real-time online/offline tracking, cutting communication delays by **~40%**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Education
+
+**B.Tech in Computer Science** — Sri Venkateswara College of Engineering, Tirupati
+*Sept 2022 – Apr 2026 · CGPA: 9.1/10*
+
+---
+
+### 📜 Certifications
+
+- **The Complete Full-Stack Web Development Bootcamp** — Udemy *(2026)*
+- **Java DSA Course – Master the Fundamentals and Beyond** — Scaler *(2026)*
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
