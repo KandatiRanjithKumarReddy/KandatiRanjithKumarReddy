@@ -86,7 +86,9 @@ At **Infosys SpringBoard**, I went from "I know React" to shipping a production-
 ### 📊 GitHub Stats
 
 <div align="center">
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=KandatiRanjithKumarReddy&theme=radical" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark" />
+
 
 <img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=true" />
 
