@@ -31,8 +31,7 @@ At **Infosys SpringBoard**, I went from "I know React" to shipping a production-
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=210&lines=const+ranjith+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++stack%3A+%5B%22React.js%22%2C+%22Node.js%22%2C+%22Angular.js%22%2C+%22MongoDB%22%2C+%22TypeScript%22%2C+%22Java%22%5D%2C;++++currentlyBuilding%3A+%22Full-Stack+MERN+Projects%22%2C;++++currentlyLearning%3A+%22System+Design%22%2C;++++askMeAbout%3A+%5B%22MERN+Stack%22%2C+%22REST+APIs%22%2C+%22Angular%22%5D%2C;++++portfolio%3A+%22ranjith-portfolio-six.vercel.app%22%2C;++++funFact%3A+%22I+debug+with+console.log%28%29+and+I%27m+not+ashamed%22;%7D%3B" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=210&lines=const+ranjith+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++stack%3A+%5B%22MERN%22%2C+%22MEAN%22%2C+%22TypeScript%22%2C+%22Java%22%5D%2C;++++currentlyBuilding%3A+%22Scalable+Full-Stack+Applications%22%2C;++++currentlyLearning%3A+%22System+Design%22%2C;++++askMeAbout%3A+%5B%22MERN%22%2C+%22MEAN%22%2C+%22REST+APIs%22%2C+%22TypeScript%22%5D%2C;++++portfolio%3A+%22ranjith-portfolio-six.vercel.app%22%2C;++++funFact%3A+%22I+debug+with+console.log%28%29+and+I%27m+not+ashamed.%22;%7D%3B" alt="Typing SVG" />
 </div>
 
 ---
