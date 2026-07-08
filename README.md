@@ -4,7 +4,7 @@
 
 ### Ex-Intern @Infosys | MERN . Angular | Java + DSA | Open to Full Time Roles
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;React.js+%7C+Node.js+%7C+Angular.js+%7C+MongoDB;Infosys+SpringBoard+Alumni;Learning+System+Design." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Software+That+Solves+Real+Problems;Full-Stack+Developer+%7C+React+%7C+Angular+%7C+Node.js;Turning+Ideas+Into+Scalable+Web+Applications;Passionate+About+Clean+Code+and+Performance;Crafting+Modern+Responsive+User+Experiences;REST+APIs+%7C+MongoDB+%7C+Firebase+%7C+JWT;Real-Time+Applications+with+Socket.IO;Always+Learning+New+Technologies;Open+to+Full-Stack+Opportunities;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
 <br/>
 
