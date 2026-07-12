@@ -110,7 +110,7 @@ At **Infosys SpringBoard**, I went from "I know React" to shipping a production-
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
 
