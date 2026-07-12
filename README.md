@@ -19,7 +19,9 @@
 
 ### 🧑‍💻 About Me
 
-I turn ideas into shipped products — not just code that runs, but products people actually use. My current playground is the **MERN + Angular** stack, where I care less about following tutorials and more about why an architecture decision actually matters at scale.
+<p align="center" style="font-size:17px;">
+I turn ideas into shipped products — not just code that runs, but products people actually use. My current playground is the <b>MERN + Angular</b> stack, where I care less about following tutorials and more about why an architecture decision actually matters at scale.
+</p>
 
 <div align="center">
 
@@ -27,7 +29,9 @@ I turn ideas into shipped products — not just code that runs, but products peo
 
 </div>
 
-At **Infosys SpringBoard**, I went from "I know React" to shipping a production-grade tourism app with real payments, real auth, and real users in mind. That shift — from tutorial code to production code — is what I'm chasing with every project since.
+<p align="center" style="font-size:17px;">
+At <b>Infosys Springboard</b>, I went from "I know React" to shipping a production-grade tourism app — real payment flows, real auth, real users hitting edge cases I hadn't thought of. That shift, from tutorial code to production code, is what every project since has chased.
+</p>
 
 <div align="center">
 
