@@ -1,0 +1,193 @@
+<svg width="960" height="280" viewBox="0 0 960 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F7F7"/>
+      <stop offset="100%" stop-color="#7B42F6"/>
+    </linearGradient>
+
+    <linearGradient id="gReact" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8CE8FB"/><stop offset="100%" stop-color="#1B7FA6"/>
+    </linearGradient>
+    <linearGradient id="gAngular" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF4D6D"/><stop offset="100%" stop-color="#8A001A"/>
+    </linearGradient>
+    <linearGradient id="gTS" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4FC3F7"/><stop offset="100%" stop-color="#003C6E"/>
+    </linearGradient>
+    <linearGradient id="gNode" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8DD98B"/><stop offset="100%" stop-color="#22572A"/>
+    </linearGradient>
+    <linearGradient id="gMongo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6FE39B"/><stop offset="100%" stop-color="#0C5C34"/>
+    </linearGradient>
+    <linearGradient id="gJava" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFC46B"/><stop offset="100%" stop-color="#A85B00"/>
+    </linearGradient>
+    <linearGradient id="gExpress" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B6BCC4"/><stop offset="100%" stop-color="#3A3F46"/>
+    </linearGradient>
+    <linearGradient id="gFirebase" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFE08A"/><stop offset="100%" stop-color="#B77B00"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="278" rx="18" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
+
+  <text x="480" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#E6EDF3">
+    🚀 Tech Stack in Motion
+  </text>
+
+  <!-- ===================== CARD TEMPLATE (repeated) ===================== -->
+  <!-- React -->
+  <g transform="translate(40,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="0s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="0s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="0s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gReact)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="42" text-anchor="middle" font-size="26" fill="#0d1117">⚛</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="13" font-weight="700" fill="#0d1117">React</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Angular -->
+  <g transform="translate(150,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gAngular)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="42" text-anchor="middle" font-size="26" fill="#fff">▲</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="12" font-weight="700" fill="#fff">Angular</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- TypeScript -->
+  <g transform="translate(260,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gTS)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="45" text-anchor="middle" font-family="Segoe UI, Arial" font-size="24" font-weight="800" fill="#fff">TS</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="#fff">TypeScript</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Node.js -->
+  <g transform="translate(370,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gNode)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="42" text-anchor="middle" font-size="24" fill="#0d1117">⬡</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="12" font-weight="700" fill="#0d1117">Node.js</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- MongoDB -->
+  <g transform="translate(480,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gMongo)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="44" text-anchor="middle" font-size="24" fill="#0d1117">🍃</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="#0d1117">MongoDB</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Java -->
+  <g transform="translate(590,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gJava)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="44" text-anchor="middle" font-size="24" fill="#0d1117">☕</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="13" font-weight="700" fill="#0d1117">Java</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Express -->
+  <g transform="translate(700,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gExpress)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="46" text-anchor="middle" font-family="Segoe UI, Arial" font-size="22" font-weight="800" fill="#0d1117">Ex</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="#0d1117">Express</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Firebase -->
+  <g transform="translate(810,90)">
+    <ellipse cx="45" cy="150" rx="30" ry="8" fill="#000" opacity="0.35">
+      <animate attributeName="rx" values="30;20;30" dur="3s" begin="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.15;0.35" dur="3s" begin="2.1s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="3s" begin="2.1s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 45 45;5 45 45;0 45 45;-5 45 45;0 45 45" dur="3s" begin="2.1s" repeatCount="indefinite"/>
+        <rect width="90" height="90" rx="18" fill="url(#gFirebase)"/>
+        <rect width="90" height="90" rx="18" fill="url(#glow)"/>
+        <text x="45" y="44" text-anchor="middle" font-size="24" fill="#0d1117">🔥</text>
+        <text x="45" y="68" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" font-weight="700" fill="#0d1117">Firebase</text>
+      </g>
+    </g>
+  </g>
+</svg>
