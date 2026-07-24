@@ -35,7 +35,7 @@ I turn ideas into shipped products — not just code that runs, but products peo
 At <b>Infosys Springboard</b>, I went from "I know React" to shipping a production-grade tourism app — real payment flows, real auth, real users hitting edge cases I hadn't thought of. That shift, from tutorial code to production code, is what every project since has chased.
 </p>
 
-<br clear="right"/>
+<br clear="bottom"/>
 
 <div align="center">
 
