@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=170&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=180&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### Ex-Intern @Infosys | MERN . Angular | Java + DSA | Open to Full Time Roles
+**Full-Stack Developer · MERN · Angular · Java + DSA · Open to SDE Roles**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Software+That+Solves+Real+Problems;Full-Stack+Developer+%7C+MERN+%7C+MEAN;Turning+Ideas+Into+Scalable+Web+Applications;Passionate+About+Clean+Code+and+Performance;Crafting+Modern+Responsive+User+Experiences;REST+APIs+%7C+MongoDB+%7C+Firebase+%7C+JWT;Real-Time+Applications+with+Socket.IO;Building,+Breaking,+Learning,+Repeating;Open+to+SDE+Roles;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Software+That+Solves+Real+Problems;Full-Stack+Developer+%7C+MERN+%7C+MEAN+%7C+TypeScript;Clean+Code+%C2%B7+Scalable+Architecture+%C2%B7+Real-Time+Apps;REST+APIs+%7C+MongoDB+%7C+Firebase+%7C+Socket.IO;Code.+Build.+Ship.+Repeat." alt="Typing SVG" />
 
 <br/>
 
@@ -19,28 +21,15 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+Most of my work is in **React, Angular, Node, TypeScript, and Java**. I use **Firebase** and **MongoDB** a lot on the backend side. I like building things that actually get used — not just stuff that looks good in a demo.
 
-<p style="font-size:20px;">
-I turn ideas into shipped products — not just code that runs, but products people actually use. My current playground is the <b>MERN + Angular</b> stack, where I care less about following tutorials and more about why an architecture decision actually matters at scale.
-</p>
-
-<div>
-
-`💡 Idea` → `🛠️ Build` → `🚀 Ship` → `🔁 Iterate`
-
-</div>
-
-<p style="font-size:20px;">
-At <b>Infosys Springboard</b>, I went from "I know React" to shipping a production-grade tourism app — real payment flows, real auth, real users hitting edge cases I hadn't thought of. That shift, from tutorial code to production code, is what every project since has chased.
-</p>
-
-<br clear="bottom"/>
+During my internship at **Infosys Springboard**, I built a full-fledged tourism app with real auth and payment flows. Getting real feedback and fixing live bugs as they came up was a massive learning experience.
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=210&lines=const+ranjith+%3D+%7B;++++role%3A+%22Full-Stack+Developer%22%2C;++++stack%3A+%5B%22MERN%22%2C+%22MEAN%22%2C+%22TypeScript%22%2C+%22Java%22%5D%2C;++++currentlyBuilding%3A+%22Scalable+Full-Stack+Applications%22%2C;++++currentlyLearning%3A+%22System+Design%22%2C;++++askMeAbout%3A+%5B%22MERN%22%2C+%22MEAN%22%2C+%22REST+APIs%22%2C+%22TypeScript%22%5D%2C;++++portfolio%3A+%22ranjith-portfolio-six.vercel.app%22%2C;++++funFact%3A+%22I+debug+with+console.log%28%29+and+I%27m+not+ashamed.%22;%7D%3B" alt="Typing SVG" />
+<img width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </div>
+
+
 
 ---
 
@@ -50,37 +39,46 @@ At <b>Infosys Springboard</b>, I went from "I know React" to shipping a producti
 
 **Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Database & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+**Core Concepts**
+
+![DSA](https://img.shields.io/badge/DSA-005571?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-7B42F6?style=for-the-badge&logo=abstract&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=amazonrds&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-2496ED?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -93,16 +91,17 @@ At <b>Infosys Springboard</b>, I went from "I know React" to shipping a producti
 ### 📊 GitHub Stats
 
 <div align="center">
+
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark" />
 
+<br/>
 
 <img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=true" />
 
 </div>
 
 ---
-
 
 ### 🏆 LeetCode Stats
 
@@ -116,12 +115,12 @@ At <b>Infosys Springboard</b>, I went from "I know React" to shipping a producti
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+**Let's connect and build something great together.**
 
-![https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandatiranjithkumarreddy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranjith-portfolio-six.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
 
-<br/>
-
-**📫 Let's connect:** [kandatiranjithkumarreddy@gmail.com](mailto:kandatiranjithkumarreddy@gmail.com) · [Portfolio](https://ranjith-portfolio-six.vercel.app) · [LinkedIn](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=120&section=footer"/>
 
 </div>
