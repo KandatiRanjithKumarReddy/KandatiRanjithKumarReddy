@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=180&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-**Ex-Intern @Infosys SpringBoard . Full-Stack Developer · MERN · Angular · Java + DSA · Open to SDE Roles**
+**Ex-Intern @Infosys SpringBoard | Full-Stack Developer | MERN · Angular | Java + DSA | Open to Full Time Roles**
 
 <br/>
 
