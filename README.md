@@ -97,7 +97,7 @@ During my internship at **Infosys Springboard**, I built a full-fledged tourism 
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=light&hide_border=true" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=true" />
 
 </div>
 
