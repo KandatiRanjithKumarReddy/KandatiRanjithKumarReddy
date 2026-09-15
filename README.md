@@ -19,11 +19,14 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 👋 About Me
 
-Most of my work is in **React, Angular, Node, TypeScript, and Java**. I use **Firebase** and **MongoDB** a lot on the backend side. I like building things that actually get used — not just stuff that looks good in a demo.
+I’m a **2026 B.Tech Computer Science graduate** with **3 months of Software Engineering internship experience at Infosys Springboard**. I build full-stack web applications using **React, Angular, Node.js, TypeScript, Java, and MongoDB**, with a focus on **APIs, authentication, and real-world business logic**.
 
-During my internship at **Infosys Springboard**, I built a full-fledged tourism app with real auth and payment flows. Getting real feedback and fixing live bugs as they came up was a massive learning experience.
+I enjoy building practical products, solving backend and application-level problems, and turning ideas into working applications. Currently looking for **entry-level Software Engineer / Full-Stack Developer opportunities**.
+
+
+
 
 <div align="center">
 <img width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
@@ -117,7 +120,7 @@ During my internship at **Infosys Springboard**, I built a full-fledged tourism 
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=github_dark"/>
+<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=github_light"/>
 
 
 </div>
