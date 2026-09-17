@@ -120,7 +120,7 @@ I enjoy building practical products, solving backend and application-level probl
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=github_dark"/>
+<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy"/>
 
 
 </div>
