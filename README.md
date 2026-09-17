@@ -122,17 +122,6 @@ I enjoy building practical products, solving backend and application-level probl
 
 <img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy"/>
 
-
-</div>
-
----
-
-### 🏆 LeetCode Stats
-
-<div align="center">
-
-[![LeetCard](https://leetcard.jacoblin.cool/ranjith568?theme=dark&font=source_code_pro)](https://leetcode.com/u/ranjith568/)
-
 </div>
 
 ---
