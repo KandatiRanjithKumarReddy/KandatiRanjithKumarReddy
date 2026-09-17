@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=180&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-**Full-Stack Developer | React & Node.js | Building Scalable Backend Systems & REST APIs | Express.js • MongoDB • TypeScript | Ex-Intern Infosys Springboard**
+<h3>🚀 Full-Stack Developer
+| React & Node.js | Building Scalable Backend Systems & REST APIs | Express.js • MongoDB • TypeScript | Ex-Intern Infosys Springboard </h3>
 
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Software+That+Solves+Real+Problems;Full-Stack+Developer+%7C+MERN+%7C+MEAN+%7C+TypeScript;Clean+Code+%C2%B7+Scalable+Architecture+%C2%B7+Real-Time+Apps;REST+APIs+%7C+MongoDB+%7C+Firebase+%7C+Socket.IO;Code.+Build.+Ship.+Repeat." alt="Typing SVG" />
 
