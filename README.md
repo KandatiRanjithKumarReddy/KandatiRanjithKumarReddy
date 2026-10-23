@@ -114,7 +114,7 @@ I enjoy building practical products, solving backend and application-level probl
 <div align="center">
 
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark" />
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark" />
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark" />
 
 <br/>
 
