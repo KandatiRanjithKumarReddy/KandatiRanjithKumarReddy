@@ -1,136 +1,172 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=180&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=150&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<h3>🚀 Full-Stack Developer
-| React & Node.js | Building Scalable Backend Systems & REST APIs | Express.js • MongoDB • TypeScript | Ex-Intern Infosys Springboard </h3>
+### Full-Stack Developer | React • Angular • Node.js • TypeScript | REST APIs • MySQL • MongoDB | AI & LLM Integration | Ex-Infosys Intern
 
+**Building practical applications, scalable APIs, and AI-powered solutions.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Software+That+Solves+Real+Problems;Full-Stack+Developer+%7C+MERN+%7C+MEAN+%7C+TypeScript;Clean+Code+%C2%B7+Scalable+Architecture+%C2%B7+Real-Time+Apps;REST+APIs+%7C+MongoDB+%7C+Firebase+%7C+Socket.IO;Code.+Build.+Ship.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Development+%7C+MERN+%7C+MEAN;Building+Real-World+Applications;REST+APIs+%7C+Authentication+%7C+Databases;LLM+Integration+%7C+AI-Powered+Applications;From+Idea+to+Production." alt="Typing SVG"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranjith-portfolio-six.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandatiranjithkumarreddy@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjith568/)
+<a href="https://ranjith-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kandati-ranjith-kumar-reddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kandatiranjithkumarreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ranjith568/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m a **2026 B.Tech Computer Science graduate** with **3 months of Software Engineering internship experience at Infosys Springboard**. I build full-stack web applications using **React, Angular, Node.js, TypeScript, Java, and MongoDB**, with a focus on **APIs, authentication, and real-world business logic**.
+I'm a **2026 B.Tech Computer Science graduate** with **3 months of Software Engineering internship experience at Infosys**.
 
-I enjoy building practical products, solving backend and application-level problems, and turning ideas into working applications. Currently looking for **entry-level Software Engineer / Full-Stack Developer opportunities**.
+I build full-stack applications using React, Angular, Node.js, TypeScript, Java, and SQL. My experience includes developing REST APIs, implementing authentication systems, integrating payment gateways, working with databases, and building AI-powered features using LLMs.
 
+I enjoy solving practical engineering problems and taking applications from development to deployment.
 
-
-
-<div align="center">
-<img width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-</div>
+**Currently looking for:** Entry-level Software Engineer | Full-Stack Developer | SDE-1 opportunities.
 
 ---
 
-### 🛠️ Tech Stack
+## Featured Projects
+
+### 1. Borrower Copilot — AI-Powered Loan Advisor
+
+An AI-powered financial application that helps borrowers evaluate loan affordability and understand safe borrowing limits.
+
+- Built a full-stack application with React 19, TypeScript, Node.js, and Express.
+- Developed a financial rules engine with tiered FOIR limits (25%–55%) and income-drop stress testing.
+- Implemented REST APIs with MySQL, JWT authentication, and Google OAuth 2.0.
+- Integrated Google Gemini AI with a three-model fallback strategy.
+- Generated personalized borrowing summaries and printable loan negotiation cards.
+
+**Tech:** React 19, TypeScript, Node.js, Express, MySQL, Gemini AI, JWT, Tailwind CSS.
+
+[Live Demo](https://borrower-copilot-pi.vercel.app)
+
+### 2. Prescripto — AI-Powered Healthcare Platform
+
+A full-stack healthcare application for managing doctor appointments, patient records, and healthcare services.
+
+- Reduced appointment booking time from 15 minutes to under 2 minutes.
+- Integrated Vaidya AI using Groq LLMs to recommend medical specialists based on patient symptoms.
+- Implemented Google OAuth and JWT authentication across patient, doctor, and admin portals.
+- Developed 16+ REST APIs for appointment scheduling and related operations.
+- Integrated Razorpay payment verification and Cloudinary image storage.
+
+**Tech:** React, Node.js, Express, MongoDB, Groq LLMs, Razorpay, Google OAuth, Tailwind CSS.
+
+### 3. TripNest — Travel Booking Platform | Infosys Internship
+
+An Angular-based travel booking application supporting destinations across multiple countries.
+
+- Developed a travel booking platform covering 120+ destinations across 26 countries.
+- Implemented Firebase Authentication, Google OAuth, and protected routes using Angular Auth Guards.
+- Built Cloud Firestore services for real-time booking management.
+- Integrated Firebase Cloud Functions for secure payment verification.
+- Integrated Razorpay checkout with dynamic pricing and search filters.
+
+**Tech:** Angular 21, TypeScript, Firebase Authentication, Cloud Firestore, Firebase Cloud Functions, Razorpay.
+
+---
+
+## Technical Skills
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
+**Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Database & Cloud**
+**Databases & Cloud**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+**AI & Integrations**
+
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-7B42F6?style=for-the-badge)
+![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white)
+
+**Tools & Development**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 **Core Concepts**
 
-![DSA](https://img.shields.io/badge/DSA-005571?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![OOPs](https://img.shields.io/badge/OOPs-7B42F6?style=for-the-badge&logo=abstract&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-2496ED?style=for-the-badge&logo=jirasoftware&logoColor=white)
-
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-8B5CF6?style=for-the-badge&logo=lovable&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-
-**Testing**
-
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![E2E Testing](https://img.shields.io/badge/E2E_Testing-2EAD33?style=for-the-badge&logo=cypress&logoColor=white)
-![Automated Testing](https://img.shields.io/badge/Automated_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-005571?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CN](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark" />
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark"/>
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=github_dark&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
+## Certifications
+
+- AWS Cloud Practitioner Essentials — Amazon Web Services (2026).
+- Earned a 4-star SQL badge on HackerRank (2026).
+
+---
+
 <div align="center">
 
-**Let's connect and build something great together.**
+### Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandatiranjithkumarreddy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranjith-portfolio-six.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandati-ranjith-kumar-reddy)
+**Interested in building useful products and solving real engineering problems.**
+
+<a href="mailto:kandatiranjithkumarreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://ranjith-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kandati-ranjith-kumar-reddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=120&section=footer"/>
 
