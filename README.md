@@ -2,9 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=150&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### Full-Stack Developer | React • Angular • Node.js • TypeScript | REST APIs • MySQL • MongoDB | AI & LLM Integration | Ex-Infosys Intern
+# Full-Stack Developer
 
-**Building practical applications, scalable APIs, and AI-powered solutions.**
+### React • Angular • Node.js • TypeScript
+
+**REST APIs • MySQL • MongoDB • AI & LLM Integration • Ex-Infosys Intern**
+
+Building practical applications, scalable APIs, and AI-powered solutions.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Development+%7C+MERN+%7C+MEAN;Building+Real-World+Applications;REST+APIs+%7C+Authentication+%7C+Databases;LLM+Integration+%7C+AI-Powered+Applications;From+Idea+to+Production." alt="Typing SVG"/>
 
@@ -43,9 +47,11 @@ An AI-powered financial application that helps borrowers evaluate loan affordabi
 - Integrated Google Gemini AI with a three-model fallback strategy.
 - Generated personalized borrowing summaries and printable loan negotiation cards.
 
-**Tech:** React 19, TypeScript, Node.js, Express, MySQL, Gemini AI, JWT, Tailwind CSS.
+**Tech Stack:** React 19, TypeScript, Node.js, Express, MySQL, Gemini AI, JWT, Tailwind CSS.
 
-[Live Demo](https://borrower-copilot-pi.vercel.app)
+**[Live Demo](https://borrower-copilot-pi.vercel.app)**
+
+---
 
 ### 2. Prescripto — AI-Powered Healthcare Platform
 
@@ -57,7 +63,11 @@ A full-stack healthcare application for managing doctor appointments, patient re
 - Developed 16+ REST APIs for appointment scheduling and related operations.
 - Integrated Razorpay payment verification and Cloudinary image storage.
 
-**Tech:** React, Node.js, Express, MongoDB, Groq LLMs, Razorpay, Google OAuth, Tailwind CSS.
+**Tech Stack:** React, Node.js, Express, MongoDB, Groq LLMs, Razorpay, Google OAuth, Tailwind CSS.
+
+**[Live Demo](https://doctor-frontend-eosin.vercel.app/)**
+
+---
 
 ### 3. TripNest — Travel Booking Platform | Infosys Internship
 
@@ -69,7 +79,7 @@ An Angular-based travel booking application supporting destinations across multi
 - Integrated Firebase Cloud Functions for secure payment verification.
 - Integrated Razorpay checkout with dynamic pricing and search filters.
 
-**Tech:** Angular 21, TypeScript, Firebase Authentication, Cloud Firestore, Firebase Cloud Functions, Razorpay.
+**Tech Stack:** Angular 21, TypeScript, Firebase Authentication, Cloud Firestore, Firebase Cloud Functions, Razorpay.
 
 ---
 
@@ -77,14 +87,14 @@ An Angular-based travel booking application supporting destinations across multi
 
 <div align="center">
 
-**Languages**
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -93,14 +103,14 @@ An Angular-based travel booking application supporting destinations across multi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & APIs**
+### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Databases & Cloud**
+### Databases & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,14 +119,14 @@ An Angular-based travel booking application supporting destinations across multi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-**AI & Integrations**
+### AI & Integrations
 
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-7B42F6?style=for-the-badge)
 ![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white)
 
-**Tools & Development**
+### Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -124,7 +134,7 @@ An Angular-based travel booking application supporting destinations across multi
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-**Core Concepts**
+### Core Concepts
 
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-005571?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge)
@@ -151,7 +161,7 @@ An Angular-based travel booking application supporting destinations across multi
 
 ---
 
-## Certifications
+## Certifications & Achievements
 
 - AWS Cloud Practitioner Essentials — Amazon Web Services (2026).
 - Earned a 4-star SQL badge on HackerRank (2026).
@@ -160,7 +170,7 @@ An Angular-based travel booking application supporting destinations across multi
 
 <div align="center">
 
-### Let's Connect
+## Let's Connect
 
 **Interested in building useful products and solving real engineering problems.**
 
