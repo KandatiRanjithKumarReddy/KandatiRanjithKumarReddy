@@ -155,7 +155,7 @@ An Angular-based travel booking application supporting destinations across multi
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=github_dark&hide_border=false"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=KandatiRanjithKumarReddy&theme=dark&hide_border=false"/>
 
 </div>
 
