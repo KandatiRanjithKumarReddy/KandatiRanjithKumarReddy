@@ -6,7 +6,7 @@
 
 ### React • Angular • Node.js • TypeScript
 
-**REST APIs • MySQL • MongoDB • AI & LLM Integration • Ex-Infosys Intern**
+**REST APIs • MySQL • MongoDB • AI & LLM's Integration • Ex-Infosys Intern**
 
 Building practical applications, scalable APIs, and AI-powered solutions.
 
