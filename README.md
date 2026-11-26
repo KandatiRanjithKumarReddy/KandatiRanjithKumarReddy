@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=150&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=34"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=150&section=header&text=Kandati%20Ranjith%20Kumar%20Reddy&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 
 # Full-Stack Developer
 
