@@ -150,7 +150,7 @@ An Angular-based travel booking application supporting destinations across multi
 
 <div align="center">
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark"/>
+<img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KandatiRanjithKumarReddy&theme=github_dark"/>
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KandatiRanjithKumarReddy&theme=github_dark"/>
 
 <br/>
